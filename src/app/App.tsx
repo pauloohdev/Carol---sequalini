@@ -185,7 +185,7 @@ function ContactSection() {
 
         <div className="flex flex-col sm:flex-row items-center justify-center gap-6">
           <a
-            href="https://wa.me/55359862-0460"
+            href="https://wa.me/553598620460"
             target="_blank"
             rel="noopener noreferrer"
             className="group relative px-8 py-4 bg-[#D4AF37] text-[#0A202A] font-semibold text-lg overflow-hidden w-full sm:w-auto flex items-center justify-center gap-3 transition-transform hover:scale-105"
