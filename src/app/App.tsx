@@ -76,7 +76,7 @@ function HeroSection() {
           </p>
 
           <div className="mt-12 flex items-center gap-4 text-gray-400">
-            <span className="text-sm tracking-widest uppercase">Desliza pra ver tudo</span>
+            <span className="text-sm tracking-widest uppercase">Deslize para ver mais</span>
             <ArrowDown className="w-4 h-4 animate-bounce" />
           </div>
         </motion.div>
@@ -85,7 +85,7 @@ function HeroSection() {
       <div className="w-full md:w-1/2 h-[50vh] md:h-screen relative z-10">
         <RevealImage 
           src={CAROL_IMG} 
-          alt="Carol Seauqlini - Arquitetura" 
+          alt="Carol Sequalini - Arquitetura" 
           className="w-full h-full"
         />
         {/* Decorative gold element */}
